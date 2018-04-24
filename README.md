@@ -4,7 +4,7 @@ An updated *Robin's Nest*
 
 ![An updated Robin's Nest](img/preview.png "An updated Robin's Nest")
 
-Just for fun I've refactored Robin Nixon's book *Learning PHP, MySQL, & JavaScript* [mini social network final example](http://lpmj.net/) based on current PHP standards:
+A small twitter clone created using Robin Nixon's book *Learning PHP, MySQL, & JavaScript* [mini social network final example](http://lpmj.net/) based on current PHP standards:
 
 - PSR-1 and PSR-2 coding standards
 - Fixed invalid html strings from '' to ""
@@ -20,8 +20,6 @@ Just for fun I've refactored Robin Nixon's book *Learning PHP, MySQL, & JavaScri
 - .js and .css in their own directories
 - removed ending ?> when not necessary
 
-## Leftovers
-- More ``echo <<< _END`` cleanup to do
-- More invalid html strings from '' to "" cleanup to do
-- More php/html separation to do
-- Routing engine at PHP level rather than at .htaccess level
+The application is to be used in conjunction with my own medium post reharding creating an EC2 AWS instance and running a php applicatin within the cloud. 
+
+The medium post can be found at https://medium.com/@oreillyalan88/lamp-linux-apache-mysql-php-web-server-on-an-amazon-ec2-linux-instance-e37eb023e996
