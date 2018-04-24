@@ -4,7 +4,7 @@ Robin's Nest from *Learning PHP, MySQL, & JavaScript* by Robin Nixon
 
 ![An updated Robin's Nest](img/preview.png "An updated Robin's Nest")
 
-A small twitter clone created using Robin Nixon's book *Learning PHP, MySQL, & JavaScript* [mini social network final example](http://lpmj.net/) which includes the following PHP standards:
+A small Facebook clone created using Robin Nixon's book *Learning PHP, MySQL, & JavaScript* [mini social network final example](http://lpmj.net/) which includes the following PHP standards:
 
 - PSR-1 and PSR-2 coding standards
 - Fixed invalid html strings from '' to ""
