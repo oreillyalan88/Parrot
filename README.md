@@ -1,6 +1,6 @@
 # Parrot
 
-An updated *Robin's Nest*
+Robin's Nest from *Learning PHP, MySQL, & JavaScript* by Robin Nixon
 
 ![An updated Robin's Nest](img/preview.png "An updated Robin's Nest")
 
