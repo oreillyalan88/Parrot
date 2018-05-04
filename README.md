@@ -16,6 +16,8 @@ The application is to be used in conjunction with my an on going series of blog 
 
 
 The blog posts can be found at:
+
+
 https://medium.com/@oreillyalan88/lamp-linux-apache-mysql-php-web-server-on-an-amazon-ec2-linux-instance-e37eb023e996
 
 and 
